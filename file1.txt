@@ -7,5 +7,3 @@ This is the feature2.
 Let's test git rebase.
 This is the feature2.
 This is the feature2.
-This is an additional line to test 'git rebase' for feature2 branch.
-This is the local added extra line to test 'git rebase' for feature2 branch.
