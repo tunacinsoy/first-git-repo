@@ -5,3 +5,4 @@ This is the fourth line.
 This is the feature1.
 This is the feature2.
 Let's test git rebase.
+This is the feature2.
